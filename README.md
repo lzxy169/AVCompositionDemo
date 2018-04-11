@@ -1,2 +1,4 @@
 # AVCompositionDemo
-AVCompositionDemo
+将两个视频合成一个视频分左右两个画面显示
+
+使用AVFoundation来实现视频合成，并保存到本地
