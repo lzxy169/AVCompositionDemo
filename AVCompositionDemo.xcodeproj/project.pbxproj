@@ -150,10 +150,10 @@
 		555968A6207DE69900D8C980 /* AVSECommand */ = {
 			isa = PBXGroup;
 			children = (
-				555968A7207DE69900D8C980 /* AVSEExportCommand.m */,
-				555968A8207DE69900D8C980 /* AVSECommand.m */,
 				555968A9207DE69900D8C980 /* AVSECommand.h */,
+				555968A8207DE69900D8C980 /* AVSECommand.m */,
 				555968AA207DE69900D8C980 /* AVSEExportCommand.h */,
+				555968A7207DE69900D8C980 /* AVSEExportCommand.m */,
 			);
 			path = AVSECommand;
 			sourceTree = "<group>";

@@ -61,7 +61,7 @@
 }
 
 - (void)writeVideoToPhotoLibrary:(NSString *)videoPath {
-    _assetOperator = [[AVAssetOperator alloc] initWithFolderName:@"LOVE"];
+    _assetOperator = [[AVAssetOperator alloc] initWithFolderName:@"MY LOVE"];
     [_assetOperator saveVideoPath:videoPath];
     
 //    ALAssetsLibrary *library = [[ALAssetsLibrary alloc] init];
